@@ -5,4 +5,4 @@
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/N75mN94)
+![App Screenshot](https://drive.google.com/drive/u/0/folders/1oAsCK2VLcjRP7sJGQtvWnTN37VGAMeEd)
