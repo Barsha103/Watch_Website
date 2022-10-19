@@ -9,6 +9,13 @@
 - CSS
 - JAVASCRIPT
 
+## Header
+
+- Home
+- Featured
+- Products
+- Cart
+
 ## Screenshots
 
 ![App Screenshot](https://drive.google.com/drive/u/0/folders/1oAsCK2VLcjRP7sJGQtvWnTN37VGAMeEd)
