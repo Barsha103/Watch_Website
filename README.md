@@ -18,4 +18,4 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/drive/u/0/folders/1oAsCK2VLcjRP7sJGQtvWnTN37VGAMeEd)
+![App Screenshot](https://github.com/Barsha103/Watch_Website/blob/main/watch.png?raw=true)
